@@ -10,6 +10,9 @@ InsightHub is a powerful and intuitive News App developed with Flutter and Dart.
 - **Category Navigation:** Navigate through different news categories for a focused reading experience.
 - **Visual Appeal:** Engage users with visually appealing news tiles, complete with images and headlines.
 
+## YouTube Demo
+- https://www.youtube.com/watch?v=mWNsfopc4Ag
+
 ## Screenshots
 
 <p float="left">
