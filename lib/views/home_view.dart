@@ -1,5 +1,5 @@
+import 'package:News_App/widgets/categories_list_view.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app_ui_setup/widgets/categories_list_view.dart';
 
 import '../widgets/news_list_view_builder.dart';
 
