@@ -17,8 +17,6 @@ InsightHub is a powerful and intuitive News App developed with Flutter and Dart.
 
 <p float="left">
   <img src="assets/screenshot/Business%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-02-12%20at%2021.53.49.png" alt="Business Screenshot" width="250" style="display:inline; margin:5px;">
-  <img src="assets/screenshot/Genral%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-02-12%20at%2021.53.32.png" alt="General Screenshot" width="250" style="display:inline; margin:5px;">
-  <img src="assets/screenshot/Health%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-02-12%20at%2021.54.08.png" alt="Health Screenshot" width="250" style="display:inline; margin:5px;">
   <img src="assets/screenshot/Science%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-02-12%20at%2021.54.27.png" alt="Science Screenshot" width="250" style="display:inline; margin:5px;">
   <img src="assets/screenshot/Sports-%20iPhone%2015%20Pro%20Max%20-%202024-02-12%20at%2021.54.46.png" alt="Sports Screenshot" width="250" style="display:inline; margin:5px;">
   <img src="assets/screenshot/Tech%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-02-12%20at%2021.55.23.png" alt="Tech Screenshot" width="250" style="display:inline; margin:5px;">
